@@ -2,4 +2,4 @@
 Contains all of the students' names
 
 ### Contributors
-Isabel Costa
+Isabel Costa Elvas
